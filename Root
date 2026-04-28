@@ -1,0 +1,10 @@
+root/
+ ├── server.js
+ ├── package.json
+ └── client/
+      ├── package.json
+      ├── public/
+      │    └── index.html
+      └── src/
+           ├── index.js
+           └── App.js
